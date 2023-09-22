@@ -81,3 +81,5 @@ The specific differences between the different groups are less drastic than the 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+There is a notable trend in the average wordsum score that scales upward as education level increases. However despite the small p-value and this trend in data there is little to support that there is a statistically significant difference in wordsum with the exception of those who are high school or lt high school educated and those with graduate or higher degrees. It should be noted that both the lt highs school group and the junior college groups have considerably smaller sample sizes than the others which may be affecting the overall results when analyzing this data.
